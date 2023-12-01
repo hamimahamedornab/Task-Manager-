@@ -1,8 +1,5 @@
-# Task Manager using GetX State Management
+# Task Manager GetX
 
-#### Ostad Flutter course project
-
-### Features
 - Sing-up and Login
 - Create Task
 - Update task status
